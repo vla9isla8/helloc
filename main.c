@@ -3,6 +3,7 @@
 
 int main (void)
 {
-	print_hello ();
+	h_world();
+	g_world();	
 }
 
